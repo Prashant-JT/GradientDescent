@@ -1,1 +1,3 @@
 # NumericalComputing
+
+![](gradientDescentGif.gif)
